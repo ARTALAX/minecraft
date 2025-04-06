@@ -1,0 +1,171 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "ARTALAXIK",
+      "uniqueId": "0f25c4c3-fa08-495b-8225-e9b48d2e54c9"
+    },
+    "time": 1742729930358,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/oKATDDxYxB"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ARTALAXIK",
+      "uniqueId": "0f25c4c3-fa08-495b-8225-e9b48d2e54c9"
+    },
+    "time": 1742729922480,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/hjHTPeWs1Y"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ARTALAXIK",
+      "uniqueId": "0f25c4c3-fa08-495b-8225-e9b48d2e54c9"
+    },
+    "time": 1742728561852,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/D8oJgm89nd"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ARTALAXIK",
+      "uniqueId": "0f25c4c3-fa08-495b-8225-e9b48d2e54c9"
+    },
+    "time": 1742728022962,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/2L6CKZKwhu"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ARTALAXIK",
+      "uniqueId": "0f25c4c3-fa08-495b-8225-e9b48d2e54c9"
+    },
+    "time": 1742728010006,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/4TSehGKxA5"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ARTALAXIK",
+      "uniqueId": "0f25c4c3-fa08-495b-8225-e9b48d2e54c9"
+    },
+    "time": 1740930425532,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/nHSbbaG5XV"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ARTALAXIK",
+      "uniqueId": "0f25c4c3-fa08-495b-8225-e9b48d2e54c9"
+    },
+    "time": 1740928911443,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/vNdpY03sSB"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ARTALAXIK",
+      "uniqueId": "0f25c4c3-fa08-495b-8225-e9b48d2e54c9"
+    },
+    "time": 1740928809506,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/hnWgXSA0kk"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ARTALAXIK",
+      "uniqueId": "0f25c4c3-fa08-495b-8225-e9b48d2e54c9"
+    },
+    "time": 1740928806459,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/aU2xXz7H55"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ARTALAXIK",
+      "uniqueId": "0f25c4c3-fa08-495b-8225-e9b48d2e54c9"
+    },
+    "time": 1740928220298,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Uy1LHrXVBX"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ARTALAXIK",
+      "uniqueId": "0f25c4c3-fa08-495b-8225-e9b48d2e54c9"
+    },
+    "time": 1740927012249,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/woJea4hYI3"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ARTALAXIK",
+      "uniqueId": "0f25c4c3-fa08-495b-8225-e9b48d2e54c9"
+    },
+    "time": 1740925849573,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Zr7HuxA8SF"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ARTALAXIK",
+      "uniqueId": "0f25c4c3-fa08-495b-8225-e9b48d2e54c9"
+    },
+    "time": 1740925306272,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/ILrLNtSPY7"
+    }
+  }
+]

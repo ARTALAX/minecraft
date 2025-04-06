@@ -1,0 +1,117 @@
+[
+  {
+    "soundEventId": "chimes:block.copper.chiming",
+    "volumeScale": 17
+  },
+  {
+    "startup": true,
+    "soundEventId": "minecraft:ambient.underwater.exit"
+  },
+  {
+    "cull": true,
+    "soundEventId": "minecraft:block.azalea_leaves.break"
+  },
+  {
+    "cull": true,
+    "soundEventId": "minecraft:block.cherry_leaves.break"
+  },
+  {
+    "block": true,
+    "soundEventId": "minecraft:block.water.ambient"
+  },
+  {
+    "cull": true,
+    "soundEventId": "minecraft:entity.chicken.ambient"
+  },
+  {
+    "startup": true,
+    "soundEventId": "minecraft:entity.chicken.egg"
+  },
+  {
+    "cull": true,
+    "soundEventId": "minecraft:entity.cow.ambient"
+  },
+  {
+    "soundEventId": "minecraft:entity.ender_dragon.ambient",
+    "volumeScale": 20
+  },
+  {
+    "cull": true,
+    "soundEventId": "minecraft:entity.ender_dragon.death",
+    "volumeScale": 10
+  },
+  {
+    "soundEventId": "minecraft:entity.ender_dragon.flap",
+    "volumeScale": 39
+  },
+  {
+    "soundEventId": "minecraft:entity.ender_dragon.growl",
+    "volumeScale": 20
+  },
+  {
+    "soundEventId": "minecraft:entity.ender_dragon.hurt",
+    "volumeScale": 30
+  },
+  {
+    "soundEventId": "minecraft:entity.ender_dragon.shoot",
+    "volumeScale": 50
+  },
+  {
+    "startup": true,
+    "soundEventId": "minecraft:entity.experience_orb.pickup"
+  },
+  {
+    "soundEventId": "minecraft:entity.lightning_bolt.impact",
+    "volumeScale": 41
+  },
+  {
+    "soundEventId": "minecraft:entity.lightning_bolt.thunder",
+    "volumeScale": 65
+  },
+  {
+    "cull": true,
+    "soundEventId": "minecraft:entity.llama.ambient"
+  },
+  {
+    "cull": true,
+    "soundEventId": "minecraft:entity.pig.ambient"
+  },
+  {
+    "cull": true,
+    "soundEventId": "minecraft:entity.sheep.ambient"
+  },
+  {
+    "cull": true,
+    "soundEventId": "minecraft:entity.wither.death",
+    "volumeScale": 10
+  },
+  {
+    "cull": true,
+    "soundEventId": "minecraft:entity.wither.spawn",
+    "volumeScale": 10
+  },
+  {
+    "cull": true,
+    "soundEventId": "sounds:block.acacia_leaves.break"
+  },
+  {
+    "cull": true,
+    "soundEventId": "sounds:block.birch_leaves.break"
+  },
+  {
+    "cull": true,
+    "soundEventId": "sounds:block.jungle_leaves.break"
+  },
+  {
+    "cull": true,
+    "soundEventId": "sounds:block.mangrove_leaves.break"
+  },
+  {
+    "cull": true,
+    "soundEventId": "sounds:block.spruce_leaves.break"
+  },
+  {
+    "soundEventId": "timm:cold_ocean",
+    "volumeScale": 7
+  }
+]

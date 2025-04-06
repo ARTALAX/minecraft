@@ -1,0 +1,21 @@
+{
+    "ModSettings": {
+        "enable_auto_refill": {
+            "value": false
+        },
+        "first_run": false
+    },
+    "GuiSettings": {
+        "continuous_crafting_saved_value": false
+    },
+    "AutoRefillSettings": {
+        "autorefill_blacklist": "minecraft:bucket, minecraft:water_bucket"
+    },
+    "Hotkeys": {
+        "sort_inventory": {
+            "main": {
+                "keys": ""
+            }
+        }
+    }
+}

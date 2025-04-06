@@ -1,0 +1,11 @@
+{
+  "displayType": "NEW",
+  "forceRelog": false,
+  "showDownloadScreen": true,
+  "showArmor": true,
+  "offlineMode": true,
+  "offlineModeToggle": true,
+  "skinOptionsButton": "CENTER",
+  "multiplayerButton": "LEFT",
+  "singleplayerButton": "OFF"
+}

@@ -1,0 +1,11 @@
+{
+	"plantOnWalkOver":true,
+	"plantDespiteAge":true,
+	"autoBoneMeal":true,
+	"autoFarmLand":true,
+	"switchBackToSlot":true,
+	"autoplantcrops":true,
+	"cancelBreakUnlessAged":false,
+	"autoReplant":true,
+	"autoplantcropsDelay":100
+}

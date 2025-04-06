@@ -1,0 +1,11 @@
+# Don't change this! Version used to track needed updates.
+version = 0
+turnOffPotionParticles = "NONE"
+reduceAllChance = 0.0
+reduceDecreasedChance = 0.0
+disableParticles = false
+
+[byTypeReductions]
+"minecraft:rain" = 0.0
+"minecraft:dripping_water" = 0.0
+"minecraft:underwater" = 0.0
