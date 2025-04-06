@@ -23,7 +23,7 @@
 	harderExplosions = false
 	#
 	#Double the parry window for a more relaxed experience
-	lenientParryMode = false
+	lenientParryMode = true
 	#
 	#Double the shield stamina for a more relaxed experience
 	lenientStaminaMode = false

@@ -6,7 +6,7 @@
 	itemsColor = "FFFFFF"
 	groupedItemsColor = "FFFFFF"
 	experienceColor = "55FF55"
-	displayExperience = true
+	displayExperience = false
 	displayTotal = true
 
 [Positioning]
