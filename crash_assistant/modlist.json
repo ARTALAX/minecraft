@@ -831,6 +831,10 @@
     "modId": "patchouli",
     "version": "1.20.1-84.1-FORGE"
   },
+  "Perception-FORGE-0.1.2.1+1.20.1.jar": {
+    "modId": "perception",
+    "version": "0.1.2.1"
+  },
   "personality-1.20.1-4.1.0.jar": {
     "modId": "personality",
     "version": "4.1.0"
