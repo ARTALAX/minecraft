@@ -4,29 +4,6 @@
 
 	[types.wood_type]
 
-		[types.wood_type.betterend]
-			end_lotus = true
-			jellyshroom = true
-			lucernia = true
-			mossy_glowshroom = true
-			pythadendron = true
-			dragon_tree = true
-			helix_tree = true
-			lacugrove = true
-			tenanea = true
-			umbrella_tree = true
-
-		[types.wood_type.betternether]
-			anchor_tree = true
-			mushroom_fir = true
-			nether_sakura = true
-			rubeus = true
-			stalagnate = true
-			wart = true
-			willow = true
-			nether_reed = true
-			nether_mushroom = true
-
 		[types.wood_type.biomesoplenty]
 			fir = true
 			pine = true
@@ -72,6 +49,29 @@
 
 		[types.wood_type.betterarcheology]
 			rotten = true
+
+		[types.wood_type.betterend]
+			end_lotus = true
+			jellyshroom = true
+			lucernia = true
+			mossy_glowshroom = true
+			pythadendron = true
+			dragon_tree = true
+			helix_tree = true
+			lacugrove = true
+			tenanea = true
+			umbrella_tree = true
+
+		[types.wood_type.betternether]
+			anchor_tree = true
+			mushroom_fir = true
+			nether_sakura = true
+			rubeus = true
+			stalagnate = true
+			wart = true
+			willow = true
+			nether_reed = true
+			nether_mushroom = true
 
 	[types.leaves_type]
 
@@ -130,23 +130,6 @@
 			white_magnolia = true
 			willow = true
 			ashen = true
-
-		[types.leaves_type.betternether]
-			willow = true
-			rubeus = true
-			anchor_tree = true
-			nether_sakura = true
-
-		[types.leaves_type.betterend]
-			pythadendron = true
-			lacugrove = true
-			dragon_tree = true
-			tenanea = true
-			lucernia = true
-
-		[types.leaves_type.culturaldelights]
-			avocado = true
-			fruiting_avocado = true
 
 		[types.leaves_type.vinery]
 			grapevine = true
@@ -220,6 +203,19 @@
 			golden_apple_jungle = true
 			golden_apple_oak = true
 			golden_apple_spruce = true
+
+		[types.leaves_type.betternether]
+			willow = true
+			rubeus = true
+			anchor_tree = true
+			nether_sakura = true
+
+		[types.leaves_type.betterend]
+			pythadendron = true
+			lacugrove = true
+			dragon_tree = true
+			tenanea = true
+			lucernia = true
 
 #Disables specific entries
 [entries]

@@ -17,7 +17,7 @@
 		"speedMultiplier": 1.0
 	},
 	"turningStanding": {
-		"enabled": true,
+		"enabled": false,
 		"speedMultiplier": 1.0
 	},
 	"idleSneaking": {
