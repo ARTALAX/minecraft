@@ -17,7 +17,7 @@ _version = 3
 				# This indicates how quickly LODs decrease in quality the further away they are. 
 				# Higher settings will render higher quality fake chunks farther away, 
 				# but will increase memory and GPU usage.
-				horizontalQuality = "MEDIUM"
+				horizontalQuality = "LOW"
 				#
 				# What is the maximum detail LODs should be drawn at? 
 				# Higher settings will increase memory and GPU usage. 
@@ -563,7 +563,7 @@ _version = 3
 		showGenerationProgress = "DISABLED"
 		#
 		# How often should the distant generator progress be displayed?
-		generationProgressDisplayIntervalInSeconds = 5
+		generationProgressDisplayIntervalInSeconds = 2
 		#
 		# For how many seconds should instructions for disabling the distant generator progress be displayed? 
 		# Setting this to 0 hides the instructional message so the world gen progress is shown immediately when it starts.

@@ -5,6 +5,71 @@
       "name": "ARTALAXIK",
       "uniqueId": "0f25c4c3-fa08-495b-8225-e9b48d2e54c9"
     },
+    "time": 1746271539185,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/u3Z0IPszr9"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ARTALAXIK",
+      "uniqueId": "0f25c4c3-fa08-495b-8225-e9b48d2e54c9"
+    },
+    "time": 1746271077274,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/f1SUW8hIcJ"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ARTALAXIK",
+      "uniqueId": "0f25c4c3-fa08-495b-8225-e9b48d2e54c9"
+    },
+    "time": 1746270004568,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/X2zIzZpFGa"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ARTALAXIK",
+      "uniqueId": "0f25c4c3-fa08-495b-8225-e9b48d2e54c9"
+    },
+    "time": 1746267494925,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/bpV7nKLyBf"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ARTALAXIK",
+      "uniqueId": "0f25c4c3-fa08-495b-8225-e9b48d2e54c9"
+    },
+    "time": 1745916067396,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/yDOUDFN70i"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ARTALAXIK",
+      "uniqueId": "0f25c4c3-fa08-495b-8225-e9b48d2e54c9"
+    },
     "time": 1744828351952,
     "type": "Profiler (live)",
     "data": {
@@ -309,110 +374,6 @@
     "data": {
       "type": "url",
       "value": "https://spark.lucko.me/4TSehGKxA5"
-    }
-  },
-  {
-    "user": {
-      "type": "player",
-      "name": "ARTALAXIK",
-      "uniqueId": "0f25c4c3-fa08-495b-8225-e9b48d2e54c9"
-    },
-    "time": 1740930425532,
-    "type": "Profiler (live)",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/nHSbbaG5XV"
-    }
-  },
-  {
-    "user": {
-      "type": "player",
-      "name": "ARTALAXIK",
-      "uniqueId": "0f25c4c3-fa08-495b-8225-e9b48d2e54c9"
-    },
-    "time": 1740928911443,
-    "type": "Profiler (live)",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/vNdpY03sSB"
-    }
-  },
-  {
-    "user": {
-      "type": "player",
-      "name": "ARTALAXIK",
-      "uniqueId": "0f25c4c3-fa08-495b-8225-e9b48d2e54c9"
-    },
-    "time": 1740928809506,
-    "type": "Profiler (live)",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/hnWgXSA0kk"
-    }
-  },
-  {
-    "user": {
-      "type": "player",
-      "name": "ARTALAXIK",
-      "uniqueId": "0f25c4c3-fa08-495b-8225-e9b48d2e54c9"
-    },
-    "time": 1740928806459,
-    "type": "Profiler (live)",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/aU2xXz7H55"
-    }
-  },
-  {
-    "user": {
-      "type": "player",
-      "name": "ARTALAXIK",
-      "uniqueId": "0f25c4c3-fa08-495b-8225-e9b48d2e54c9"
-    },
-    "time": 1740928220298,
-    "type": "Heap dump summary",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/Uy1LHrXVBX"
-    }
-  },
-  {
-    "user": {
-      "type": "player",
-      "name": "ARTALAXIK",
-      "uniqueId": "0f25c4c3-fa08-495b-8225-e9b48d2e54c9"
-    },
-    "time": 1740927012249,
-    "type": "Profiler (live)",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/woJea4hYI3"
-    }
-  },
-  {
-    "user": {
-      "type": "player",
-      "name": "ARTALAXIK",
-      "uniqueId": "0f25c4c3-fa08-495b-8225-e9b48d2e54c9"
-    },
-    "time": 1740925849573,
-    "type": "Profiler (live)",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/Zr7HuxA8SF"
-    }
-  },
-  {
-    "user": {
-      "type": "player",
-      "name": "ARTALAXIK",
-      "uniqueId": "0f25c4c3-fa08-495b-8225-e9b48d2e54c9"
-    },
-    "time": 1740925306272,
-    "type": "Profiler (live)",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/ILrLNtSPY7"
     }
   }
 ]

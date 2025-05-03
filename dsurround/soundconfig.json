@@ -4,6 +4,14 @@
     "volumeScale": 17
   },
   {
+    "soundEventId": "dsurround:thunder",
+    "volumeScale": 65
+  },
+  {
+    "soundEventId": "leahs-immersive-thunder:thunder_close",
+    "volumeScale": 65
+  },
+  {
     "startup": true,
     "soundEventId": "minecraft:ambient.underwater.exit"
   },
