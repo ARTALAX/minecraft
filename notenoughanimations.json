@@ -21,7 +21,7 @@
   "enableRotateToLadder": false,
   "enableEatDrinkAnimation": true,
   "enableRowBoatAnimation": true,
-  "enableHorseAnimation": true,
+  "enableHorseAnimation": false,
   "enableHorseLegAnimation": false,
   "dontHoldItemsInBed": true,
   "freezeArmsInBed": true,

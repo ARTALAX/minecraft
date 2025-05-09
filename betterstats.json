@@ -4,7 +4,7 @@
   "client-guiMobsFollowCursor": true,
   "client-trustAllServersBssNet": true,
   "client-allowStatsSharing": true,
-  "client-wideStatsPanel": false,
+  "client-wideStatsPanel": true,
   "client-centeredStatsPanel": false,
   "server-registerCommands": true,
   "server-enableSAS": false,

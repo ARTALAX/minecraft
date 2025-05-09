@@ -254,13 +254,6 @@
 		[entries.wood_type.farmersdelight]
 			cabinet = true
 
-		[entries.wood_type.hearth_and_home]
-			lattice = true
-			sanded_wood = true
-			parquet = true
-			vertical_trim = true
-			trim = true
-
 		[entries.wood_type.backpacked]
 			backpack_shelf = true
 

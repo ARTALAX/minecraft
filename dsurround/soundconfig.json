@@ -119,7 +119,131 @@
     "soundEventId": "sounds:block.spruce_leaves.break"
   },
   {
+    "soundEventId": "timm:badlands",
+    "volumeScale": 50
+  },
+  {
+    "soundEventId": "timm:bamboo_jungle",
+    "volumeScale": 50
+  },
+  {
+    "soundEventId": "timm:basalt_deltas",
+    "volumeScale": 50
+  },
+  {
+    "soundEventId": "timm:birch_forest",
+    "volumeScale": 50
+  },
+  {
+    "soundEventId": "timm:cherry_grove",
+    "volumeScale": 50
+  },
+  {
     "soundEventId": "timm:cold_ocean",
-    "volumeScale": 7
+    "volumeScale": 50
+  },
+  {
+    "soundEventId": "timm:crimson_forest",
+    "volumeScale": 50
+  },
+  {
+    "soundEventId": "timm:dark_forest",
+    "volumeScale": 50
+  },
+  {
+    "soundEventId": "timm:deep_dark",
+    "volumeScale": 50
+  },
+  {
+    "soundEventId": "timm:desert",
+    "volumeScale": 50
+  },
+  {
+    "soundEventId": "timm:dripstone_caves",
+    "volumeScale": 50
+  },
+  {
+    "soundEventId": "timm:end",
+    "volumeScale": 50
+  },
+  {
+    "soundEventId": "timm:flower_forest",
+    "volumeScale": 50
+  },
+  {
+    "soundEventId": "timm:forest",
+    "volumeScale": 50
+  },
+  {
+    "soundEventId": "timm:jungle",
+    "volumeScale": 50
+  },
+  {
+    "soundEventId": "timm:lush_caves",
+    "volumeScale": 50
+  },
+  {
+    "soundEventId": "timm:meadow",
+    "volumeScale": 50
+  },
+  {
+    "soundEventId": "timm:menu",
+    "volumeScale": 50
+  },
+  {
+    "soundEventId": "timm:mountains",
+    "volumeScale": 50
+  },
+  {
+    "soundEventId": "timm:mushroom",
+    "volumeScale": 50
+  },
+  {
+    "soundEventId": "timm:my_sound",
+    "volumeScale": 50
+  },
+  {
+    "soundEventId": "timm:nether_wastes",
+    "volumeScale": 50
+  },
+  {
+    "soundEventId": "timm:ocean",
+    "volumeScale": 50
+  },
+  {
+    "soundEventId": "timm:plains",
+    "volumeScale": 50
+  },
+  {
+    "soundEventId": "timm:river",
+    "volumeScale": 50
+  },
+  {
+    "soundEventId": "timm:savanna",
+    "volumeScale": 50
+  },
+  {
+    "soundEventId": "timm:snow_plains",
+    "volumeScale": 50
+  },
+  {
+    "soundEventId": "timm:soul_sand_valley",
+    "volumeScale": 50
+  },
+  {
+    "soundEventId": "timm:swamp",
+    "volumeScale": 50
+  },
+  {
+    "soundEventId": "timm:taiga",
+    "volumeScale": 50
+  },
+  {
+    "soundEventId": "timm:warm_ocean",
+    "volumeScale": 50
+  },
+  {
+    "soundEventId": "timm:windy_hills",
+    "volumeScale": 50
   }
 ]

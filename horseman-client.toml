@@ -12,6 +12,8 @@ horse_model_y_offset = 2
 render_lead_indication_without_slot = true
 #Makes horse-type mobs that named 'jeb_' render with rainbow effect, like sheep. Default: true.
 jeb_horse = true
+#Fixes small delay when moving camera horizontally while mounted - MC-259512. Default: true
+fix_mounted_camera_lag = true
 
 [switch_inventory]
 	#Adds button and hotkey to switch between player and horse inventory. Default: true
