@@ -73,6 +73,9 @@
 			nether_reed = true
 			nether_mushroom = true
 
+		[types.wood_type.mynethersdelight]
+			powdery = true
+
 	[types.leaves_type]
 
 		[types.leaves_type.biomesoplenty]
@@ -216,6 +219,11 @@
 			dragon_tree = true
 			tenanea = true
 			lucernia = true
+
+	[types.cake]
+
+		[types.cake.mynethersdelight]
+			magma_cake = true
 
 #Disables specific entries
 [entries]

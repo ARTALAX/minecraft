@@ -101,7 +101,7 @@
 	#List of items that seagulls cannot take from players.
 	seagullStealingBlacklist = []
 	#Whether the Clinging Potion effect should flip the screen. Warning: may cause nausea.
-	clingingFlipEffect = false
+	clingingFlipEffect = true
 	#Percent chance of getting Pigshoes from Piglin Bartering. Set to zero to disable.
 	#Range: 0.0 ~ 1.0
 	tusklinShoesBarteringChance = 0.02500000037252903

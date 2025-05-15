@@ -5,6 +5,45 @@
       "name": "ARTALAXIK",
       "uniqueId": "0f25c4c3-fa08-495b-8225-e9b48d2e54c9"
     },
+    "time": 1747241676831,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/9Ph7WMDA28"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ARTALAXIK",
+      "uniqueId": "0f25c4c3-fa08-495b-8225-e9b48d2e54c9"
+    },
+    "time": 1746812703328,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/UXH0NzEkQD"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ARTALAXIK",
+      "uniqueId": "0f25c4c3-fa08-495b-8225-e9b48d2e54c9"
+    },
+    "time": 1746812690385,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/S0d5PrhMI3"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ARTALAXIK",
+      "uniqueId": "0f25c4c3-fa08-495b-8225-e9b48d2e54c9"
+    },
     "time": 1746798105730,
     "type": "Profiler (live)",
     "data": {
