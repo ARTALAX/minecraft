@@ -16,7 +16,7 @@
   "fogShape": "CYLINDER",
   "cloudsHeight": 192,
   "entityNametagRendering": true,
-  "playerNametagRendering": false,
+  "playerNametagRendering": true,
   "itemNametagRendering": true,
   "chunkFadeSpeed": "SLOW",
   "darknessMode": "VANILLA",

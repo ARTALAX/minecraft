@@ -7,17 +7,17 @@
       "value": true
     },
     "showQuickStackButton": {
-      "value": true
+      "value": false
     },
     "showRestockButton": {
-      "value": true
+      "value": false
     },
     "showButtonTooltip": {
       "value": true
     },
     "stackToNearbyContainersButtonPosX": {
       "defaultValue": 140,
-      "value": 140
+      "value": 0
     },
     "stackToNearbyContainersButtonPosY": {
       "defaultValue": 170,
@@ -25,7 +25,7 @@
     },
     "restockFromNearbyContainersButtonPosX": {
       "defaultValue": 160,
-      "value": 160
+      "value": 20
     },
     "restockFromNearbyContainersButtonPosY": {
       "defaultValue": 170,
@@ -47,7 +47,7 @@
       "defaultValue": 10,
       "value": 10
     },
-    "favoriteItemStyle": "stack-to-nearby-chests:gold_badge",
+    "favoriteItemStyle": "stack-to-nearby-chests:gold_border",
     "alwaysShowMarkersForFavoritedItems": {
       "value": true
     },
@@ -64,7 +64,7 @@
       "value": true
     },
     "doNotQuickStackItemsFromTheHotbar": {
-      "value": false
+      "value": true
     },
     "enableItemFavoriting": {
       "value": true
@@ -380,22 +380,21 @@
       "betterend:umbrella_tree_chest"
     ],
     "stackingTargetEntities": [
-      "expandedstorage:diamond_chest_minecart",
-      "expandedstorage:moss_chest_minecart",
       "expandedstorage:gold_chest_minecart",
-      "expandedstorage:obsidian_chest_minecart",
-      "minecraft:chest_minecart",
-      "expandedstorage:pumpkin_chest_minecart",
-      "expandedstorage:bamboo_chest_minecart",
-      "expandedstorage:netherite_chest_minecart",
-      "minecraft:llama",
-      "minecraft:donkey",
-      "minecraft:chest_boat",
-      "expandedstorage:wood_chest_minecart",
-      "minecraft:mule",
-      "expandedstorage:present_minecart",
       "expandedstorage:iron_chest_minecart",
-      "minecraft:trader_llama"
+      "expandedstorage:present_minecart",
+      "expandedstorage:obsidian_chest_minecart",
+      "minecraft:donkey",
+      "minecraft:llama",
+      "expandedstorage:pumpkin_chest_minecart",
+      "minecraft:mule",
+      "expandedstorage:netherite_chest_minecart",
+      "expandedstorage:bamboo_chest_minecart",
+      "minecraft:trader_llama",
+      "expandedstorage:wood_chest_minecart",
+      "minecraft:chest_minecart",
+      "expandedstorage:diamond_chest_minecart",
+      "expandedstorage:moss_chest_minecart"
     ],
     "itemsThatWillNotBeStacked": [
       "minecraft:yellow_shulker_box",
@@ -712,22 +711,22 @@
       "betterend:umbrella_tree_chest"
     ],
     "restockingSourceEntities": [
-      "expandedstorage:diamond_chest_minecart",
-      "expandedstorage:moss_chest_minecart",
       "expandedstorage:gold_chest_minecart",
-      "expandedstorage:obsidian_chest_minecart",
-      "minecraft:chest_minecart",
-      "expandedstorage:pumpkin_chest_minecart",
-      "expandedstorage:bamboo_chest_minecart",
-      "expandedstorage:netherite_chest_minecart",
-      "minecraft:llama",
-      "minecraft:donkey",
-      "minecraft:chest_boat",
-      "expandedstorage:wood_chest_minecart",
-      "minecraft:mule",
-      "expandedstorage:present_minecart",
       "expandedstorage:iron_chest_minecart",
-      "minecraft:trader_llama"
+      "expandedstorage:present_minecart",
+      "expandedstorage:obsidian_chest_minecart",
+      "minecraft:donkey",
+      "minecraft:llama",
+      "expandedstorage:pumpkin_chest_minecart",
+      "minecraft:mule",
+      "expandedstorage:netherite_chest_minecart",
+      "minecraft:chest_boat",
+      "expandedstorage:bamboo_chest_minecart",
+      "minecraft:trader_llama",
+      "expandedstorage:wood_chest_minecart",
+      "minecraft:chest_minecart",
+      "expandedstorage:diamond_chest_minecart",
+      "expandedstorage:moss_chest_minecart"
     ],
     "itemsThatWillNotBeRestocked": [
       "minecraft:yellow_shulker_box",
@@ -780,8 +779,8 @@
     },
     "markAsFavoriteKey": {
       "keys": [
-        342,
-        -99
+        341,
+        67
       ],
       "defaultKeys": [
         342,
