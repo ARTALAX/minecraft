@@ -4,6 +4,50 @@
     "volumeScale": 17
   },
   {
+    "soundEventId": "coolrain:rain_sounds_amethyst",
+    "volumeScale": 250
+  },
+  {
+    "soundEventId": "coolrain:rain_sounds_fabric",
+    "volumeScale": 250
+  },
+  {
+    "soundEventId": "coolrain:rain_sounds_fabric_muffled",
+    "volumeScale": 250
+  },
+  {
+    "soundEventId": "coolrain:rain_sounds_foliage",
+    "volumeScale": 250
+  },
+  {
+    "soundEventId": "coolrain:rain_sounds_glass",
+    "volumeScale": 250
+  },
+  {
+    "soundEventId": "coolrain:rain_sounds_glass_muffled",
+    "volumeScale": 250
+  },
+  {
+    "soundEventId": "coolrain:rain_sounds_lava",
+    "volumeScale": 250
+  },
+  {
+    "soundEventId": "coolrain:rain_sounds_metal",
+    "volumeScale": 250
+  },
+  {
+    "soundEventId": "coolrain:rain_sounds_metal_muffled",
+    "volumeScale": 250
+  },
+  {
+    "soundEventId": "coolrain:rain_sounds_noteblock",
+    "volumeScale": 250
+  },
+  {
+    "soundEventId": "coolrain:rain_sounds_water",
+    "volumeScale": 150
+  },
+  {
     "soundEventId": "dsurround:thunder",
     "volumeScale": 65
   },

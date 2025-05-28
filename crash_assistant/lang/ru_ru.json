@@ -131,6 +131,7 @@
   "msg.found_analysis_2": "$DEFAULT",
   "commands.crash_command_applying_args": "$DEFAULT",
   "msg.found_analysis_1": "$DEFAULT",
+  "warnings_common.memory_args": "$DEFAULT",
   "msg.modlist_unmodified": "$DEFAULT",
   "gui.privacy.logs_upload_question": "$DEFAULT",
   "gui.remove_mod": "$DEFAULT",

@@ -1,7 +1,6 @@
 {
   "selections": {
-    "mode": "SIMPLE",
-    "current": "C:\\Users\\Light Flight PC\\AppData\\Roaming\\ElyPrismLauncher\\instances\\1.20.1(4)\\.minecraft\\config\\forgematica\\area_selections_per_world\\_____\\area_selections\\Винодельня ФИНААЛ.json"
+    "mode": "SIMPLE"
   },
   "placements": {},
   "schematic_projects_manager": {},
@@ -23,14 +22,14 @@
     "boxes": [
       {
         "pos1": [
-          -962,
+          -934,
           81,
-          -177
+          -188
         ],
         "pos2": [
-          -962,
-          81,
-          -177
+          -934,
+          80,
+          -188
         ],
         "name": "Unnamed"
       }

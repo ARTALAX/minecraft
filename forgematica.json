@@ -136,7 +136,7 @@
       "keys": "RIGHT_ALT"
     },
     "openGuiMaterialList": {
-      "keys": "M,L"
+      "keys": "RIGHT_ALT,L"
     },
     "openGuiPlacementSettings": {
       "keys": "KP_SUBTRACT"

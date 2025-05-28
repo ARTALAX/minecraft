@@ -52,7 +52,7 @@
 	// Specify the backup format. Valid options are ZIP and DIRECTORY
 	"backup_format": "ZIP",
 	// Minimum free disk space in MB. If a backup's creation would leave less than this amount of disk space remaining, the backup will be aborted.
-	"minimum_free_space": 10240,
+	"minimum_free_space": 15000,
 	// If the previous backup failed due to lack of space, the oldest backup will be deleted to free space.
 	"free_space_if_needed": true,
 	/* Specify files or folders to be excluded.

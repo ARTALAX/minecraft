@@ -5,6 +5,19 @@
       "name": "ARTALAXIK",
       "uniqueId": "0f25c4c3-fa08-495b-8225-e9b48d2e54c9"
     },
+    "time": 1747731579182,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/o3XjeIYYLO"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ARTALAXIK",
+      "uniqueId": "0f25c4c3-fa08-495b-8225-e9b48d2e54c9"
+    },
     "time": 1747241676831,
     "type": "Profiler (live)",
     "data": {
@@ -387,71 +400,6 @@
     "data": {
       "type": "url",
       "value": "https://spark.lucko.me/ufd1xuj1so"
-    }
-  },
-  {
-    "user": {
-      "type": "player",
-      "name": "ARTALAXIK",
-      "uniqueId": "0f25c4c3-fa08-495b-8225-e9b48d2e54c9"
-    },
-    "time": 1742729930358,
-    "type": "Profiler (live)",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/oKATDDxYxB"
-    }
-  },
-  {
-    "user": {
-      "type": "player",
-      "name": "ARTALAXIK",
-      "uniqueId": "0f25c4c3-fa08-495b-8225-e9b48d2e54c9"
-    },
-    "time": 1742729922480,
-    "type": "Profiler (live)",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/hjHTPeWs1Y"
-    }
-  },
-  {
-    "user": {
-      "type": "player",
-      "name": "ARTALAXIK",
-      "uniqueId": "0f25c4c3-fa08-495b-8225-e9b48d2e54c9"
-    },
-    "time": 1742728561852,
-    "type": "Profiler (live)",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/D8oJgm89nd"
-    }
-  },
-  {
-    "user": {
-      "type": "player",
-      "name": "ARTALAXIK",
-      "uniqueId": "0f25c4c3-fa08-495b-8225-e9b48d2e54c9"
-    },
-    "time": 1742728022962,
-    "type": "Profiler (live)",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/2L6CKZKwhu"
-    }
-  },
-  {
-    "user": {
-      "type": "player",
-      "name": "ARTALAXIK",
-      "uniqueId": "0f25c4c3-fa08-495b-8225-e9b48d2e54c9"
-    },
-    "time": 1742728010006,
-    "type": "Profiler (live)",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/4TSehGKxA5"
     }
   }
 ]

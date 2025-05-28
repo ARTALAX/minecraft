@@ -225,6 +225,32 @@
 		[types.cake.mynethersdelight]
 			magma_cake = true
 
+	[types.stone_type]
+
+		[types.stone_type.betterend]
+			azure_jadestone = true
+			sandy_jadestone = true
+			virid_jadestone = true
+			sulphuric_rock = true
+			flavolite = true
+			violecite = true
+			umbralith = true
+
+		[types.stone_type.regions_unexplored]
+			argillite = true
+			chalk = true
+
+		[types.stone_type.biomesoplenty]
+			black_sandstone = true
+			orange_sandstone = true
+			white_sandstone = true
+			brimstone = true
+
+		[types.stone_type.galosphere]
+			pink_salt = true
+			rose_pink_salt = true
+			pastel_pink_salt = true
+
 #Disables specific entries
 [entries]
 
@@ -413,4 +439,82 @@
 
 		[entries.leaves_type.regions_unexplored]
 			shrub = true
+
+	[entries.stone_type]
+
+		[entries.stone_type.chipped]
+			tiled_column = true
+			pillar = true
+			checkered_tiles = true
+			cracked_flat_tiles = true
+			eroded = true
+			weathered = true
+			tiled_bordered = true
+			simple_pillar = true
+			scales = true
+			smooth_column = true
+			vertical_disordered_bricks = true
+			fine_pillar = true
+			sad = true
+			brick_bordered = true
+			glad = true
+			smooth_inlayed = true
+			unamused = true
+			bordered = true
+			cut_column = true
+			edged_bricks = true
+			cobbled = true
+			smoothed_double_inlayed = true
+			rounded_bricks = true
+			overlapping_tiles = true
+			pillar_top = true
+			rough = true
+			tiny_layered_bricks = true
+			loded = true
+			bricks = true
+			massive_bricks = true
+			layed_bricks = true
+			spider_carving = true
+			thick_inlayed = true
+			tiny_brick_bordered = true
+			pointed_dripstone = true
+			sanded = true
+			engraved = true
+			offset_bricks = true
+			small_bricks = true
+			duh = true
+			mini_tiles = true
+			angry = true
+			vertical_cut = true
+			crying = true
+			smooth_ringed = true
+			runic_carved = true
+			curly_pillar = true
+			etched_bricks = true
+			stacked_bricks = true
+			spiraled = true
+			inscribed = true
+			polished = true
+			cut_blank = true
+			blank_carving = true
+			prismal_remnants = true
+			tiny_layered_slabs = true
+			tiny_bricks = true
+			flat_tiles = true
+			inlayed = true
+			trodden = true
+			tiled = true
+			creeper_carving = true
+			cracked_bricks = true
+			pillar_bricks = true
+			cracked_disordered_bricks = true
+			carved = true
+			ornate_pillar = true
+
+	[entries.mud_type]
+
+		[entries.mud_type.betterarcheology]
+			cracked_brick_stairs = true
+			cracked_bricks = true
+			cracked_brick_slab = true
 
