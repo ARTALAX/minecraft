@@ -1,0 +1,34 @@
+{
+  "version": 4,
+  "subtitlesEnabled": false,
+  "sounds": [
+    {
+      "soundId": "leahs-immersive-thunder:thunder_close",
+      "volume": 0.01
+    },
+    {
+      "soundId": "leahs-immersive-thunder:thunder_far",
+      "volume": 0.01
+    },
+    {
+      "soundId": "leahs-immersive-thunder:thunder_medium",
+      "volume": 0.01
+    },
+    {
+      "soundId": "minecraft:entity.lightning_bolt.impact",
+      "volume": 0.5
+    },
+    {
+      "soundId": "minecraft:entity.lightning_bolt.thunder",
+      "volume": 0.01
+    },
+    {
+      "soundId": "minecraft:item.trident.thunder",
+      "volume": 0.01
+    },
+    {
+      "soundId": "vc_gliders:incoming_lightning",
+      "volume": 0.6
+    }
+  ]
+}

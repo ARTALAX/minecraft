@@ -3,10 +3,6 @@
     "modId": "forge",
     "version": "fmlloader-1.20.1-47.4.0.jar"
   },
-  "$R37NF0I.jar": {
-    "modId": "dsurround",
-    "version": "0.3.3"
-  },
   "[forge]ctov-3.4.14.jar": {
     "modId": "ctov",
     "version": "3.4.14"
@@ -14,10 +10,6 @@
   "advancednetherite-forge-2.1.3-1.20.1.jar": {
     "modId": "advancednetherite",
     "version": "2.1.3"
-  },
-  "advancementinfo-1.20-fabric0.83.0-1.4.jar": {
-    "modId": "advancementinfo",
-    "version": "1.20-fabric0.83.0-1.4"
   },
   "AdvancementPlaques-1.20.1-forge-1.6.9.jar": {
     "modId": "advancementplaques",
@@ -203,9 +195,9 @@
     "modId": "chipped",
     "version": "3.0.7"
   },
-  "chloride-FORGE-mc1.20.1-v1.7.1.jar": {
+  "chloride-FORGE-mc1.20.1-v1.7.2.jar": {
     "modId": "chloride",
-    "version": "1.7.1"
+    "version": "1.7.2"
   },
   "chunksending-1.20.1-2.8.jar": {
     "modId": "chunksending",
@@ -273,9 +265,9 @@
     "modId": "coroutil",
     "version": "1.20.1-1.3.7"
   },
-  "corpse-forge-1.20.1-1.0.20.jar": {
+  "corpse-forge-1.20.1-1.0.21.jar": {
     "modId": "corpse",
-    "version": "1.20.1-1.0.20"
+    "version": "1.20.1-1.0.21"
   },
   "corpsecurioscompat-1.18.x-1.20.x-Forge-2.2.2.jar": {
     "modId": "corpsecurioscompat",
@@ -285,9 +277,9 @@
     "modId": "crabbersdelight",
     "version": "1.1.7e"
   },
-  "CrashAssistant-forge-1.19.2-1.20.1-1.9.1.jar": {
+  "CrashAssistant-forge-1.19.2-1.20.1-1.9.2.jar": {
     "modId": "crash_assistant",
-    "version": "1.9.1"
+    "version": "1.9.2"
   },
   "CreativeCore_FORGE_v2.12.32_mc1.20.1.jar": {
     "modId": "creativecore",
@@ -313,9 +305,9 @@
     "modId": "customskinloader",
     "version": "14.23"
   },
-  "Delightful-1.20.1-3.7.1.jar": {
+  "Delightful-1.20.1-3.7.2.jar": {
     "modId": "delightful",
-    "version": "3.7.1"
+    "version": "3.7.2"
   },
   "dimensionalsycnfixes-1.20.1-0.0.1.jar": {
     "modId": "dimensionalsycnfixes",
@@ -421,9 +413,9 @@
     "modId": "etched",
     "version": "3.0.2"
   },
-  "everycomp-1.20-2.8.6-forge.jar": {
+  "everycomp-1.20-2.8.7-forge.jar": {
     "modId": "everycomp",
-    "version": "1.20-2.8.6"
+    "version": "1.20-2.8.7"
   },
   "explosiveenhancement-1.1.0-1.20.1-client-and-server.jar": {
     "modId": "explosiveenhancement",
@@ -521,9 +513,13 @@
     "modId": "galosphere",
     "version": "1.20.1-1.4.1"
   },
-  "geckolib-forge-1.20.1-4.7.1.2.jar": {
+  "geckolib-forge-1.20.1-4.7.1.3.jar": {
     "modId": "geckolib",
-    "version": "4.7.1.2"
+    "version": "4.7.1.3"
+  },
+  "gliders-forge-1.1.7.jar": {
+    "modId": "vc_gliders",
+    "version": "1.1.7"
   },
   "GlitchCore-forge-1.20.1-0.0.1.1.jar": {
     "modId": "glitchcore",
@@ -578,9 +574,9 @@
     "modId": "inventorymanagement",
     "version": "1.3.1"
   },
-  "ipla-1.20.1-forge-4.4.jar": {
+  "ipla-1.20.1-forge-1.3.jar": {
     "modId": "ipla",
-    "version": "4.4"
+    "version": "1.3"
   },
   "ItemBorders-1.20.1-forge-1.2.2.jar": {
     "modId": "itemborders",
@@ -707,9 +703,9 @@
     "modId": "monolib",
     "version": "2.1.0"
   },
-  "moonlight-1.20-2.14.1-forge.jar": {
+  "moonlight-1.20-2.14.4-forge.jar": {
     "modId": "moonlight",
-    "version": "1.20-2.14.1"
+    "version": "1.20-2.14.4"
   },
   "MoreChestVariants-1.5.6+1.20.2-Forge.jar": {
     "modId": "lolmcv",
@@ -799,6 +795,10 @@
     "modId": "owo",
     "version": "0.11.2+1.20"
   },
+  "paginatedadvancements-2.3.0.jar": {
+    "modId": "paginatedadvancements",
+    "version": "2.3.0"
+  },
   "Paintings-forge-1.20.1-11.0.0.2.jar": {
     "modId": "paintings",
     "version": "11.0.0.2"
@@ -815,9 +815,9 @@
     "modId": "particle-effects",
     "version": "1.0.3+1.20.1"
   },
-  "particular-1.20.1-Forge-1.2.2.jar": {
+  "particular-1.20.1-Forge-1.2.4.jar": {
     "modId": "particular",
-    "version": "1.2.2"
+    "version": "1.2.4"
   },
   "Patchouli-1.20.1-84.1-FORGE.jar": {
     "modId": "patchouli",
@@ -987,6 +987,10 @@
     "modId": "sound_physics_remastered",
     "version": "1.20.1-1.4.13"
   },
+  "soundcontroller-v1.2.2-mc1.20.jar": {
+    "modId": "soundcontroller",
+    "version": "1.2.2"
+  },
   "Sounds-2.2.1+1.20.1+forge.jar": {
     "modId": "sounds",
     "version": "2.2.1+1.20.1+forge"
@@ -1007,9 +1011,9 @@
     "modId": "stack-to-nearby-chests",
     "version": "0.5.10"
   },
-  "stonezone-1.20-2.8.7.jar": {
+  "stonezone-1.20-2.8.8.jar": {
     "modId": "stonezone",
-    "version": "1.20-2.8.7"
+    "version": "1.20-2.8.8"
   },
   "Structory_1.20.x_v1.3.5.jar": {
     "modId": "structory",
@@ -1039,9 +1043,9 @@
     "modId": "supermartijn642configlib",
     "version": "1.1.8"
   },
-  "supplementaries-1.20-3.1.29.jar": {
+  "supplementaries-1.20-3.1.31.jar": {
     "modId": "supplementaries",
-    "version": "1.20-3.1.29"
+    "version": "1.20-3.1.31"
   },
   "suppsquared-1.20-1.1.21.jar": {
     "modId": "suppsquared",
@@ -1079,9 +1083,9 @@
     "modId": "timm",
     "version": "1.0.4"
   },
-  "ToadLib-1.3.1-1.20-1.20.1.jar": {
+  "ToadLib-1.20-1.20.1-1.3.3.jar": {
     "modId": "toadlib",
-    "version": "1.3.1"
+    "version": "1.3.3"
   },
   "trashslot-forge-1.20-15.1.1.jar": {
     "modId": "trashslot",
@@ -1102,10 +1106,6 @@
   "VillagersPlus_3.1_(FORGE)_for_1.20.1.jar": {
     "modId": "villagersplus",
     "version": "3.1"
-  },
-  "villagesandpillages-forge-mc1.20.1-1.0.2.jar": {
-    "modId": "villagesandpillages",
-    "version": "1.0.2"
   },
   "visuality-forge-2.0.2.jar": {
     "modId": "visuality",

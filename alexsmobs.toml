@@ -95,7 +95,7 @@
 	#Range: 0.0 ~ 1000000.0
 	voidWormMaxHealth = 160.0
 	#Whether the void worm boss is summonable or not, via the mysterious worm item.
-	voidWormSummonable = true
+	voidWormSummonable = false
 	#Whether seagulls should steal food out of players' hotbar slots.
 	seagullStealing = true
 	#List of items that seagulls cannot take from players.
