@@ -3,7 +3,7 @@ version = 0
 biomeColorRain = false
 flameGeyserSpawnChance = 0
 flameGeyserSoundVolume = 0.5
-flameGeyserActiveTime = 300
+flameGeyserActiveTime = 217
 flameGeyserInactiveTime = 500
 
 [biomes]

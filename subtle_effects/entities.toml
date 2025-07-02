@@ -1,7 +1,6 @@
 # Don't change this! Version used to track needed updates.
 version = 0
 enderPearlTrail = true
-snowballTrailDensity = 0.2
 allayMagicDensity = 0.2
 vexMagicDensity = 0.2
 sheepShearFluff = true
@@ -23,6 +22,12 @@ xpBottleParticlesDensity = 10
 eggSmashSoundVolume = 0.5
 eggSplatParticles = true
 freezingSnowFlakes = true
+featherTicklingPandas = true
+improvedPandaSneezes = true
+snowballTrailDensity = 0.5049019607843137
+snowballPoofsHaveSnowflakes = true
+snowballPoofSoundVolume = 0.3
+villagerWorkAtWorkstationParticles = true
 
 [attacked]
 chickenFeathers = true
@@ -31,10 +36,10 @@ snowGolemSnowflakes = true
 
 [sleeping]
 playerSnoreChance = 1.0
-playerSnoreSoundVolume = 1.0
+playerSnoreSoundVolume = 0.70098037
 playersHaveSleepingZs = true
 villagerSnoreChance = 1.0
-villagerSnoreSoundVolume = 1.0
+villagerSnoreSoundVolume = 0.70098037
 villagersHaveSleepingZs = true
 foxesHaveSleepingZs = true
 batsHaveSleepingZs = true
@@ -65,7 +70,7 @@ stomachGrowlingThreshold = 6
 stomachGrowlingVolume = 0.49509802
 stomachGrowlingWaitTime = 15
 heartBeatingThreshold = 6
-heartbeatVolume = 0.70098037
+heartbeatVolume = 0.50490195
 heartBeatingWaitTime = 3
 
 [dustClouds]

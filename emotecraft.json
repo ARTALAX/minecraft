@@ -11,14 +11,14 @@
   "alwaysOpenScreen": false,
   "debug": true,
   "validate": false,
-  "validationThreshold": 8.0,
+  "validationThreshold": 40.20848,
   "emotesFolderOnLogicalServer": false,
   "emotesDirectory": "emotes",
   "autoFixEmoteStop": true,
   "alwaysValidateEmote": false,
   "playersafety": true,
-  "stopthreshold": 0.04,
-  "yratio": 0.75,
+  "stopthreshold": 20.514996,
+  "yratio": 0.50097656,
   "showHiddenConfig": false,
   "neverRemoveBadIcon": false,
   "exportBuiltin": false,
@@ -59,7 +59,8 @@
       "3": "88df9fe8-0000-0000-0000-000000000000",
       "4": "cc44145c-0000-0000-0000-000000000000",
       "5": "345a6a9e-0000-0000-0000-000000000000",
-      "6": "0fd2f3e9-0000-0000-0000-000000000000"
+      "6": "0fd2f3e9-0000-0000-0000-000000000000",
+      "7": "9d785307-0000-0000-0000-000000000000"
     },
     "4": {
       "2": "5e175d16-0000-0000-0000-000000000000",

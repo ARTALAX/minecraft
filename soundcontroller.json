@@ -27,6 +27,10 @@
       "volume": 0.01
     },
     {
+      "soundId": "timm:cold_ocean",
+      "volume": 0.4
+    },
+    {
       "soundId": "vc_gliders:incoming_lightning",
       "volume": 0.6
     }

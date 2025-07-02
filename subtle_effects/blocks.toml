@@ -14,13 +14,16 @@ anvilBreakParticles = true
 anvilUseParticles = true
 grindstoneUseParticles = true
 smithingTableUseParticles = true
+stonecutterUseParticles = true
+cauldronUseParticles = true
+cauldronCleanItemSounds = true
+compostingCompostParticles = true
+compostingItemParticles = true
 commandBlockParticles = "ON"
 slimeBlockBounceSounds = true
 beaconParticlesDisplayType = "ON"
 beaconParticlesDensity = 10
 beaconParticlesSpeed = 1.0
-compostingCompostParticles = true
-compostingItemParticles = true
 respawnAnchorParticles = true
 beehiveShearParticles = true
 endPortalParticles = true
@@ -36,10 +39,11 @@ sculkCatalystDestroySouls = true
 calibratedSculkSensorAmethystSparkle = true
 campfireSizzlingSoundVolume = 0.5
 vegetationFirefliesDensity = 30
-vegetationFirefliesSpawnType = "FLOWERS_ONLY"
+vegetationFirefliesSpawnType = "GRASS_AND_FLOWERS"
 replacePowderSnowFlakes = true
 lavaCauldronEffects = true
 enderEyePlacedRings = true
+enderEyePlacedRingsDuration = 10
 enderEyePlacedParticlesDisplayType = "BOTH"
 eyeColors = [
     [ "minecraft:ender_eye", { r = 122, g = 186, b = 171 } ],
@@ -60,6 +64,7 @@ eyeColors = [
     [ "endrem:corrupted_eye", { r = 87, g = 95, b = 91 } ],
     [ "endrem:black_eye", { r = 2, g = 12, b = 38 } ]
 ]
+endPortalFrameParticlesDisplayType = "SMOKE"
 replaceOminousVaultConnection = true
 
 [sparks]
@@ -83,7 +88,7 @@ campfireDowseSmoke = true
 lavaFizzSteam = true
 replaceCampfireFoodSmoke = true
 spongeDryingOutSteam = true
-spawnLogic = "BRIGHTNESS"
+spawnLogic = "NEAR_LAVA"
 steamingWater = true
 boilingWater = true
 steamingWaterCauldron = true
