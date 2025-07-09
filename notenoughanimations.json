@@ -46,7 +46,7 @@
   "tweakElytraAnimation": false,
   "petAnimation": true,
   "fallingAnimation": false,
-  "freezingAnimation": false,
+  "freezingAnimation": true,
   "huggingAnimation": true,
   "narutoRunning": false,
   "enableInWorldBookRendering": true,

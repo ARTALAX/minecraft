@@ -232,9 +232,6 @@
 			sandy_jadestone = true
 			virid_jadestone = true
 			sulphuric_rock = true
-			flavolite = true
-			violecite = true
-			umbralith = true
 
 		[types.stone_type.regions_unexplored]
 			argillite = true
@@ -244,7 +241,6 @@
 			black_sandstone = true
 			orange_sandstone = true
 			white_sandstone = true
-			brimstone = true
 
 		[types.stone_type.galosphere]
 			pink_salt = true
