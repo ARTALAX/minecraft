@@ -2,10 +2,10 @@
 [general]
 	#Minimum delay (in ticks)
 	#Range: 0 ~ 600
-	minDelay = 300
+	minDelay = 3
 	#Maximum delay (in ticks)
 	#Range: 0 ~ 600
-	maxDelay = 300
+	maxDelay = 3
 	#Print message when skipping
 	printOnSkip = true
 	#Enable debug logging (no GUI entry)

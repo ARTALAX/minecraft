@@ -1,0 +1,34 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:prismarine_bricks"
+		},
+		"title": "Не совсем Атлантида...",
+		"description": "Найдите подводный город. Спасателей здесь нет.",
+		"frame": "goal",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"parent": "minecraft:adventure/throw_trident",
+	"criteria": {
+		"locate_underwater_city": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player": {
+					"location": {
+						"structure": "hopo:underwater/underwater_city"
+					}
+				}
+			}
+		}
+	},
+	"requirements": [
+		[
+			"locate_underwater_city"
+		]
+	],
+	"rewards": {
+		"experience": 100
+	}
+}

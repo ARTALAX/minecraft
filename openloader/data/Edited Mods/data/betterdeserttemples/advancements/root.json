@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:chiseled_sandstone"
+    },
+    "title": {
+      "translate": "Улучшенные пустынные храмы от YUNG'а"
+    },
+    "description": {
+      "translate": "Где-то глубоко в пустыне..."
+    },
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true,
+    "background": "minecraft:textures/block/sandstone.png"
+  },
+  "criteria": {
+    "always": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}
