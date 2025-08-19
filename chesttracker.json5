@@ -33,7 +33,7 @@
 		litematica: {
 			material_list_search_buttons: true,
 			count_ender_chest_materials: true,
-			count_nearby_materials: false
+			count_nearby_materials: true
 		}
 	}
 }
