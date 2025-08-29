@@ -91,7 +91,9 @@
     "net.mehvahdjukaar.supplementaries.client.screens.PresentScreen": true,
     "dev.emi.emi.screen.BoMScreen": true,
     "io.github.mortuusars.exposure.gui.screen.camera.CameraAttachmentsScreen": true,
-    "tictim.paraglider.client.screen.BargainScreen": true
+    "tictim.paraglider.client.screen.BargainScreen": true,
+    "lain.mods.cos.impl.client.gui.GuiCosArmorInventory": true,
+    "top.theillusivec4.curios.client.gui.CuriosScreenV2": true
   },
   "hideBackground": {
     "dev.emi.emi.screen.RecipeScreen": true,
@@ -102,6 +104,8 @@
     "com.mrcrayfish.backpacked.client.gui.screen.inventory.BackpackScreen": true,
     "com.mrcrayfish.backpacked.client.gui.screen.CustomiseBackpackScreen": true,
     "net.mehvahdjukaar.supplementaries.client.screens.PresentScreen": true,
-    "io.github.mortuusars.exposure.gui.screen.camera.CameraAttachmentsScreen": true
+    "io.github.mortuusars.exposure.gui.screen.camera.CameraAttachmentsScreen": true,
+    "lain.mods.cos.impl.client.gui.GuiCosArmorInventory": true,
+    "top.theillusivec4.curios.client.gui.CuriosScreenV2": true
   }
 }

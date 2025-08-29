@@ -15,5 +15,6 @@
     "enable": true,
     "hideOnPause": "Show",
     "unrecognizedScreenDefault": true
-  }
+  },
+  "allowedKeysOverrides": {}
 }
