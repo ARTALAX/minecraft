@@ -93,7 +93,10 @@
     "io.github.mortuusars.exposure.gui.screen.camera.CameraAttachmentsScreen": true,
     "tictim.paraglider.client.screen.BargainScreen": true,
     "lain.mods.cos.impl.client.gui.GuiCosArmorInventory": true,
-    "top.theillusivec4.curios.client.gui.CuriosScreenV2": true
+    "top.theillusivec4.curios.client.gui.CuriosScreenV2": true,
+    "de.maxhenkel.corpse.gui.CorpseInventoryScreen": true,
+    "io.github.mortuusars.exposure.gui.screen.PhotographScreen": true,
+    "gg.moonflower.etched.client.screen.EtchingScreen": true
   },
   "hideBackground": {
     "dev.emi.emi.screen.RecipeScreen": true,
@@ -106,6 +109,10 @@
     "net.mehvahdjukaar.supplementaries.client.screens.PresentScreen": true,
     "io.github.mortuusars.exposure.gui.screen.camera.CameraAttachmentsScreen": true,
     "lain.mods.cos.impl.client.gui.GuiCosArmorInventory": true,
-    "top.theillusivec4.curios.client.gui.CuriosScreenV2": true
+    "top.theillusivec4.curios.client.gui.CuriosScreenV2": true,
+    "de.maxhenkel.corpse.gui.CorpseInventoryScreen": true,
+    "io.github.mortuusars.exposure.gui.screen.PhotographScreen": true,
+    "gg.moonflower.etched.client.screen.EtchingScreen": true,
+    "gg.moonflower.etched.client.screen.RadioScreen": true
   }
 }

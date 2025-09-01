@@ -10,8 +10,8 @@
   "name": "gui.xaero_entity_category_root",
   "protection": true,
   "settingOverrides": {
-    "displayed": false,
     "displayHeight": 0.0,
+    "displayed": false,
     "heightBasedFade": true,
     "renderOrder": 0.0,
     "color": 13.0,
@@ -52,8 +52,8 @@
           "name": "gui.xaero_entity_category_players",
           "protection": true,
           "settingOverrides": {
-            "displayed": true,
             "displayHeight": 0.0,
+            "displayed": true,
             "heightBasedFade": false,
             "renderOrder": 6.0,
             "color": 15.0,
