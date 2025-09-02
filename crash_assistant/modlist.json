@@ -39,10 +39,10 @@
     "modId": "alexsmobsinteraction",
     "version": "5.4"
   },
-  "alltheleaks-1.0.2+1.20.1-forge.jar": {
-    "jarName": "alltheleaks-1.0.2+1.20.1-forge.jar",
+  "alltheleaks-1.0.3+1.20.1-forge.jar": {
+    "jarName": "alltheleaks-1.0.3+1.20.1-forge.jar",
     "modId": "alltheleaks",
-    "version": "1.0.2+1.20.1-forge"
+    "version": "1.0.3+1.20.1-forge"
   },
   "allthetrims-3.4.3-forge+1.20.1.jar": {
     "jarName": "allthetrims-3.4.3-forge+1.20.1.jar",
@@ -550,10 +550,10 @@
     "modId": "entity_model_features",
     "version": "2.4.1"
   },
-  "entity_texture_features_forge_1.20.1-6.2.9.jar": {
-    "jarName": "entity_texture_features_forge_1.20.1-6.2.9.jar",
+  "entity_texture_features_1.20.1-forge-7.0.2.jar": {
+    "jarName": "entity_texture_features_1.20.1-forge-7.0.2.jar",
     "modId": "entity_texture_features",
-    "version": "6.2.9"
+    "version": "7.0.2"
   },
   "entityculling-forge-1.8.2-mc1.20.1.jar": {
     "jarName": "entityculling-forge-1.8.2-mc1.20.1.jar",
@@ -1196,10 +1196,10 @@
     "modId": "rightclickharvest",
     "version": "4.5.3+1.20.1"
   },
-  "sawmill-1.20-1.4.9.jar": {
-    "jarName": "sawmill-1.20-1.4.9.jar",
+  "sawmill-1.20-1.4.10.jar": {
+    "jarName": "sawmill-1.20-1.4.10.jar",
     "modId": "sawmill",
-    "version": "1.20-1.4.9"
+    "version": "1.20-1.4.10"
   },
   "scholar-1.20.1-1.1.5.1-forge.jar": {
     "jarName": "scholar-1.20.1-1.1.5.1-forge.jar",
@@ -1471,10 +1471,10 @@
     "modId": "visualworkbench",
     "version": "8.0.1"
   },
-  "voicechat-forge-1.20.1-2.5.36.jar": {
-    "jarName": "voicechat-forge-1.20.1-2.5.36.jar",
+  "voicechat-forge-1.20.1-2.6.1.jar": {
+    "jarName": "voicechat-forge-1.20.1-2.6.1.jar",
     "modId": "voicechat",
-    "version": "1.20.1-2.5.36"
+    "version": "1.20.1-2.6.1"
   },
   "whereisit-2.6.3+1.20.1 (1).jar": {
     "jarName": "whereisit-2.6.3+1.20.1 (1).jar",
