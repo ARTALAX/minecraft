@@ -3,6 +3,10 @@
   "subtitlesEnabled": false,
   "sounds": [
     {
+      "soundId": "bettercombat:sword_slash",
+      "volume": 0.56
+    },
+    {
       "soundId": "leahs-immersive-thunder:thunder_close",
       "volume": 0.01
     },
