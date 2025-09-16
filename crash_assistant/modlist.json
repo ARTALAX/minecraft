@@ -758,10 +758,10 @@
     "modId": "iceberg",
     "version": "1.1.25"
   },
-  "ImmediatelyFast-Forge-1.5.1+1.20.4.jar": {
-    "jarName": "ImmediatelyFast-Forge-1.5.1+1.20.4.jar",
+  "ImmediatelyFast-Forge-1.5.2+1.20.4.jar": {
+    "jarName": "ImmediatelyFast-Forge-1.5.2+1.20.4.jar",
     "modId": "immediatelyfast",
-    "version": "1.5.1+1.20.4"
+    "version": "1.5.2+1.20.4"
   },
   "immersive-hotbar-1.0.4-1.20-1.20.4.jar": {
     "jarName": "immersive-hotbar-1.0.4-1.20-1.20.4.jar",
@@ -896,10 +896,10 @@
     "modId": "lmft",
     "version": "1.0.4+1.20.1"
   },
-  "loot_journal-forge-1.20.1-4.0.2.jar": {
-    "jarName": "loot_journal-forge-1.20.1-4.0.2.jar",
+  "Loot Journal-forge-1.20.1-5.0.1.jar": {
+    "jarName": "Loot Journal-forge-1.20.1-5.0.1.jar",
     "modId": "loot_journal",
-    "version": "4.0.2"
+    "version": "5.0.1"
   },
   "lootr-forge-1.20-0.7.35.92.jar": {
     "jarName": "lootr-forge-1.20-0.7.35.92.jar",
@@ -1080,11 +1080,6 @@
     "jarName": "Paintings-forge-1.20.1-11.0.0.2.jar",
     "modId": "paintings",
     "version": "11.0.0.2"
-  },
-  "Palladium-1.20-1.20.1-1.1.6.1.jar": {
-    "jarName": "Palladium-1.20-1.20.1-1.1.6.1.jar",
-    "modId": "mr_toad_palladium",
-    "version": "1.1.6.1"
   },
   "ParticleEffects-1.0.5+1.20.1.jar": {
     "jarName": "ParticleEffects-1.0.5+1.20.1.jar",
