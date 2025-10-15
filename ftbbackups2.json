@@ -48,7 +48,7 @@
 	// Display file size in backup message
 	"display_file_size": true,
 	// backup location
-	"backup_location": ".",
+	"backup_location": "D:/MinecraftBackups",
 	// Specify the backup format. Valid options are ZIP and DIRECTORY
 	"backup_format": "ZIP",
 	// Minimum free disk space in MB. If a backup's creation would leave less than this amount of disk space remaining, the backup will be aborted.

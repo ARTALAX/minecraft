@@ -76,6 +76,9 @@
 		[types.wood_type.mynethersdelight]
 			powdery = true
 
+		[types.wood_type.crabbersdelight]
+			palm = true
+
 	[types.leaves_type]
 
 		[types.leaves_type.biomesoplenty]
@@ -219,6 +222,9 @@
 			dragon_tree = true
 			tenanea = true
 			lucernia = true
+
+		[types.leaves_type.crabbersdelight]
+			palm = true
 
 	[types.cake]
 
